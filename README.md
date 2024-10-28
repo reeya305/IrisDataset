@@ -14,13 +14,6 @@ The Iris dataset contains data on 150 iris plants across three species: Setosa, 
 3. **Optimal Number of Clusters**: Use the elbow method to determine the best value of `k` for clustering.
 4. **Evaluation**: Visualize the clusters and evaluate how well KMeans clustering groups the dataset.
 
-## Installation
-
-Make sure you have Python 3.x installed, along with the necessary libraries:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
-```
 
 ## Usage
 
@@ -35,4 +28,5 @@ The elbow method should reveal an ideal `k` value that balances model accuracy w
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project orginally build from https://www.youtube.com/watch?v=D13crmqlHXE
+
